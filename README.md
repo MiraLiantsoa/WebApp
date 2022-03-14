@@ -1,5 +1,5 @@
 # WebApp
-1- Theorie 
+I- Theorie 
 Chaine XPath qui retourne :
 
 1- tous les éléments book : 
@@ -13,3 +13,9 @@ Chaine XPath qui retourne :
 
 4- /library/library/ancestor-or-self::library 
 retourne tous les parents de la librairie courante 
+
+II - 
+To do :
+1- mettre en place la connection avec la db qui a été mis en place
+
+2- créer la logique d'ajout et de création de personne dans une couche à part
